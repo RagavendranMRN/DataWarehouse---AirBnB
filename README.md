@@ -1,2 +1,2 @@
-# DataWarehouse---AirBnB
+# DataWarehouse-AirBnB
 Case Study of AirBnb Data warehouse
